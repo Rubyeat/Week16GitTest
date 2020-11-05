@@ -22,6 +22,10 @@ public class Entry<KeyType, ValueType> {
     public String toString() {
         return "(" + key + ", " + value + ")";
     }
+	
+	public void method(){
+		
+	}
 
 
     //This generic class could be used in the following ways, for example:
